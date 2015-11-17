@@ -73,6 +73,15 @@ object {
 #viewerContainer {
 	height: 100%;
 }
+frame {
+	width: 100%;
+}
+body {
+	width: 100%;
+}
+iframe {
+	width: 100%;
+}
 
 
 
