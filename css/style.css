@@ -42,7 +42,7 @@ h1 {
 
 }
 .jumbotron {
-
+	/* [disabled]display: block; */
 }
 br {
 	height: 5em;
@@ -93,9 +93,6 @@ iframe.vidsize {
 
 
 @media (max-width: 992px){
-#carousel1 .carousel-inner .item.active {
-	display: none;
-}
 div#viewer.pdfviewer {
 	height: 100%;
 }
@@ -111,12 +108,6 @@ div#viewer.pdfviewer {
 }
 div#viewerContainer {
 	height: 100%;
-}
-.carousel-inner {
-	display: none;
-}
-.carousel.slide#carousel1 {
-	display: none;
 }
 .img-responsive {
 	width: 100%;

@@ -188,6 +188,8 @@ td,
 th {
   padding: 0;
 }
+.carousel {
+}
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
@@ -6582,3 +6584,10 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+@media (max-width:992px){
+.jumbotron {
+}
+#carousel1 {
+}
+}
