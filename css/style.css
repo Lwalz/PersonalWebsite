@@ -76,6 +76,10 @@ object {
 frame {
 	width: 100%;
 }
+iframe {
+	padding-left: 0;
+	width: 100%;
+}
 body {
 	width: 100%;
 }
